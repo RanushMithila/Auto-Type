@@ -16,3 +16,12 @@ limit = 889
 if (x > limit):
   break
 ```
+You can change message using **msg** variable
+
+```
+msg = "You are a "
+```
+
+###Output
+
+![This is an image](https://github.com/RanushMithila/Auto-Type/blob/main/src/output.png)
