@@ -4,7 +4,7 @@ import time
 #safety
 spam.FAILSAFE = True
 
-#limit = 889
+limit = 889
 msg = "You are a "
 
 x = 0
