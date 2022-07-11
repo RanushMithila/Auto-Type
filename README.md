@@ -1,6 +1,10 @@
 # Auto-Type
 
 
+## Language
+
+![Python](https://skills.thijs.gg/icons?i=python)
+
 I'm add safty code blocks because something going wrong you can stop execution moving your mouse to top left conner in screen.
 
 ```
